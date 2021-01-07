@@ -4,7 +4,7 @@
 
 * This project is about building a **classifier** that predicts whether a **borrower will default on his loan**
 
-* The underlying objective is to minimize as much as possible to risk to grant credit to a borrower that is likely to default 
+* The underlying objective is to **minimize** as much as possible the **risk** to grant credit to a borrower that is **likely to default**
 
 * Since the target is **binary** it consists of a **supervised binary classification** task  <p>&nbsp;
 
