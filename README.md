@@ -1,6 +1,6 @@
 # Scoring model
 
-## Project overview
+## Project overview<p>&nbsp;</p>
 
 * This project is about building a **classifier** that predicts whether a **borrower will default on his loan**
 
@@ -9,7 +9,7 @@
 * Since the target is **binary** it consists of a **supervised binary classification** task  <p>&nbsp;
 
 
-## Workflow summary
+### Workflow
 
 * **aggregated** the tables of the database
 
@@ -17,16 +17,15 @@
 
 * defined a **custom metric** that penalizes more **false negatives**
 
-* compared a set of estimators on custom metric using CV
 
-* compared estimators' performance on custom metric when training on over/under sampled data
+* compared and optimized **estimators** using CV 
 
-* optimized **Logistic Regression, LGBM & SVM** estimators using both **GridSearchCV** and **RandomizedSearchCV**
+* implemented data **augmentation** techniques
 
 
 * defined **optimal threshold** for predictions using CV
 
-* predicted test samples target values with **optimized Logistic regression** & concluded on both model **generalization** and **interpretation**
+* predicted test samples target values with **best model** & concluded on both model **generalization** and **interpretation**
 
 * coded an interactive **dashboard** with **Streamlit**
 
