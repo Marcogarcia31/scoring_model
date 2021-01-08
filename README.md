@@ -39,7 +39,7 @@
 
 * use command pip install -r requirements.txt to install the **dependencies**
 
-* the data is directly available in the repository in zip format or can be downloaded  [here](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip). The csv files should be stored in a folder named Data to reproduce code in the notebook
+* the data is directly available [here](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip). The csv files should be stored in a folder named Data to reproduce code in the notebook
 
 * it is **necessary that the notebook is run before the dashboard and the API script** 
 
